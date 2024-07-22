@@ -1,0 +1,39 @@
+{
+    "os": "macOS-14.5-arm64-arm-64bit",
+    "python": "3.9.10",
+    "heartbeatAt": "2024-07-22T09:48:52.938998",
+    "startedAt": "2024-07-22T09:48:51.815197",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--track"
+    ],
+    "state": "running",
+    "program": "/Users/jagjitsingh/Desktop/company-projects/RL/PPO-Pytorch/ppo.py",
+    "codePathLocal": "ppo.py",
+    "codePath": "ppo.py",
+    "git": {
+        "remote": "https://github.com/sainijagjit/PPO-Pytorch.git",
+        "commit": "0c8ac94b6fb5fa9afbdbe8d10433adbf454bec6a"
+    },
+    "email": "sainijagjit@rocketmail.com",
+    "root": "/Users/jagjitsingh/Desktop/company-projects/RL/PPO-Pytorch",
+    "host": "Jagjits-MacBook-Pro.local",
+    "username": "jagjitsingh",
+    "executable": "/Library/Frameworks/Python.framework/Versions/3.9/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 9.556930541992188
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
